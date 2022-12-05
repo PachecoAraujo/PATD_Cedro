@@ -16,7 +16,7 @@ Lote;Nome;Manha;Tarde;Total
 1;Canoa;12;8;20
 1;Maiada;12;8;20
 1;Mocha;9.4;9;18.4
-1;Pirraça;10.4;8;18.4
+1;Pirraca;10.4;8;18.4
 1;Italiana;10.8;7.4;18.2
 1;Uberaba;10;8;18
 1;Barra Grande;9.4;8.2;17.6
@@ -110,7 +110,7 @@ Lote;Nome;Manha;Tarde;Total
 3;Cabiuna;8.2;4.4;12.6
 3;Mutuca;7.2;5.2;12.4
 3;Sete Copas;8.4;4;12.4
-3;Lembrança;7.8;4.6;12.4
+3;Lembranca;7.8;4.6;12.4
 3;Pinta Roxa;8.2;4.2;12.4
 3;Trigueira;8.2;4;12.2
 3;Revistinha;7.8;4.2;12
@@ -191,7 +191,7 @@ Lote;Nome;Manha;Tarde;Total
 5;Gracinha;4.2;2.6;6.8
 5;Revista;4;2.6;6.6
 5;Chatinha;3.5;3;6.5
-5;Viçosa;4;2.4;6.4
+5;Vicosa;4;2.4;6.4
 5;Letrada;4.6;1.8;6.4
 5;Pata;3.6;2.6;6.2
 5;Sanfona;4;2.2;6.2
@@ -215,4 +215,4 @@ Lote;Nome;Manha;Tarde;Total
 5;Boiadeira;3;;3
 5;Xita;3;;3
 5;Vitamina;1.5;0.8;2.3
-5;Caçula;1;1;2
+5;Cacula;1;1;2

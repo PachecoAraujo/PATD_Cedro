@@ -78,7 +78,7 @@ Lote;Nome;Manha;Tarde;Total
 2;Verdura;10.4;7;17.4
 2;Vereda;11.2;8.4;19.6
 2;Zebra;15;11.4;26.4
-2;Chupeta; ;8;8
+2;Chupeta;;8;8
 3;Barcelona;9.8;6.4;16.2
 3;Bigorna;8.6;4.8;13.4
 3;Bolinha;8;6.4;14.4
@@ -179,7 +179,7 @@ Lote;Nome;Manha;Tarde;Total
 5;Cachoeira;18;8;26
 5;Caravela;3.8;1.8;5.6
 5;Carioca;3.4;1.6;5
-5;Cebola;8; ;8
+5;Cebola;8;;8
 5;Chatinha;3;1.4;4.4
 5;Chinesa;5;2.4;7.4
 5;Chupeta;8;;8

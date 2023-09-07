@@ -27,7 +27,7 @@ Lote;Nome;23/07 Tarde;24/07 Manha;Soma
 4;Curitiba;2.6;5;7.6
 4;Prateada;3;6.4;9.4
 4;Bananinha;2.8;6;8.8
-4;Chinesa;-;5;5
+4;Chinesa;;5;5
 4;Uranha;2.4;4.8;7.2
 4;Jade;4;6.4;10.4
 4;Mazuca;2.2;4.2;6.4
@@ -43,11 +43,11 @@ Lote;Nome;23/07 Tarde;24/07 Manha;Soma
 4;Loirinha;2;4.2;6.2
 4;Mistura;2.4;4.4;6.8
 4;Jaguanesa;1.6;3.8;5.4
-4;Picuma;2.8;-;2.8
+4;Picuma;2.8;;2.8
 4;Panda;2;5;7
 4;Lagoa;1.6;3.8;5.4
 4;Branquinha;0.2;2.6;2.8
-4;Carioca;1.8;-;1.8
+4;Carioca;1.8;;1.8
 4;Piracicaba;2.2;4.4;6.6
 4;Jararaca;2.2;3.2;5.4
 4;Lontra;2.2;5.6;7.8
@@ -175,7 +175,7 @@ Lote;Nome;23/07 Tarde;24/07 Manha;Soma
 2;Faceira;6;5.2;11.2
 2;Nobreza;8.2;9;17.2
 2;Paulistinha;10;13;23
-2;Cantora;-;8;8
+2;Cantora;;8;8
 1;Manchada;6.4;7.8;14.2
 1;Garota;7.2;7.2;14.4
 1;Paraiba;8.6;8.5;17.1

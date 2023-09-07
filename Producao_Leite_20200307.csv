@@ -30,7 +30,7 @@ Lote;Nome;06/03/2020(Tarde);07/03/2020(Manha);Total
 1;Extrema;8;8;16
 1;Redonda;7.4;7.2;14.6
 1;Vitamina;7;6.4;13.4
-1;Bucanha;-;12;12
+1;Bucanha;;12;12
 1;Amora;6.2;7.6;13.8
 1;Reforma;5;4;9
 1;Pirraca;6;6;12
@@ -60,7 +60,7 @@ Lote;Nome;06/03/2020(Tarde);07/03/2020(Manha);Total
 1;Nanica;5;5;10
 1;Camponesa;4;5;9
 1;Batata;9.4;9;18.4
-2;Purina;-;8;8
+2;Purina;;8;8
 2;Farrista;5.2;8.6;13.8
 2;Cabloca;8.8;7.2;16
 2;Lagoa;4.2;6;10.2
@@ -117,11 +117,11 @@ Lote;Nome;06/03/2020(Tarde);07/03/2020(Manha);Total
 2;Manchada;8;8.2;16.2
 2;Boneca;9.6;12.2;21.8
 2;Bahia;5.6;8.4;14
-2;Baia;8;-;8
+2;Baia;8;;8
 2;Balinha;6.2;10.8;17
 2;Jararaca;3.6;5.6;9.2
-2;Ruela;8;-;8
-2;Tranquila;8;-;8
+2;Ruela;8;;8
+2;Tranquila;8;;8
 3;Bananinha;5.4;4;9.4
 3;Turquia;4.4;5;9.4
 3;Mantena;6;5;11
@@ -148,7 +148,7 @@ Lote;Nome;06/03/2020(Tarde);07/03/2020(Manha);Total
 3;Gamela;5;7;12
 3;Ligeira;5.2;7;12.2
 3;Clareza;6;7.4;13.4
-3;Laguna;3.2;-;3.2
+3;Laguna;3.2;;3.2
 3;Meia Noite;6.8;7;13.8
 3;Crioula;3.6;5.4;9
 3;Princesa;6.6;9.6;16.2

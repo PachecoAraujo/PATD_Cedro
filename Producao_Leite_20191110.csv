@@ -56,7 +56,7 @@ Lote;Nome;Leite Manha;Leite Tarde;Total
 1;Extrema;9.4;9;18.4
 1;Maravilha;7.8;7;14.8
 1;Gauchona;6;6;12
-1;Ciganinha;7.6;-;7.6
+1;Ciganinha;7.6;;7.6
 1;Mucamba;9.2;8.4;17.6
 1;Paulista;7.2;7.6;14.8
 1;Bilosca;9.2;7.6;16.8
@@ -69,11 +69,11 @@ Lote;Nome;Leite Manha;Leite Tarde;Total
 1;Negrinha;11;9.6;20.6
 1;Carijo;8.2;9;17.2
 1;Pacoquinha;8;10;18
-2;Turquia;5;-;5
-2;Marreca;5;-;5
+2;Turquia;5;;5
+2;Marreca;5;;5
 2;Canastra;7;8.2;15.2
-2;Chinesa;8;-;8
-2;Sardinha;5;-;5
+2;Chinesa;8;;8
+2;Sardinha;5;;5
 2;Areia;5;6;11
 2;Letradinha;3.8;6;9.8
 2;Laguna;4.4;6.4;10.8
@@ -249,9 +249,9 @@ Lote;Nome;Leite Manha;Leite Tarde;Total
 5;Letra;2;7;9
 5;Fumacinha;1.6;4.4;6
 5;Tieta;1.2;3.6;4.8
-5;Galocha;1.4;-;1.4
+5;Galocha;1.4;;1.4
 5;Estrangeira;2;8.2;10.2
-5;Faisca;0.2;-;0.2
+5;Faisca;0.2;;0.2
 5;Limeira;2;6;8
 5;Baiana;2.8;6;8.8
 5;Frisura;2.2;7.4;9.6
